@@ -1,7 +1,3 @@
-#baseURL = "http://claude.monwenagni.com/"
-#languageCode = "f-us"
-#title = "My New Hugo Site"
-
 baseurl      = "localhost"
 title        = "My Blog"
 languageCode = "en-us"
