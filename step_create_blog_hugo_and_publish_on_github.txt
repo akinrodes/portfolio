@@ -1,2 +1,0 @@
-hugo new site akinrodes
-git init
